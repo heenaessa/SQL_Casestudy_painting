@@ -5,15 +5,14 @@
 
 ## Code
 ### Python script for loading dataset into database.
-See load_files.py file
+See <u>load_files.py</u> file
 ### Objective
  The objective of this project are as follows:
-1)To understand the popular painting styles used by artists
- 2) Which artist has the most number of paintings placed in different museums all over the world.
- 3) Analyse the working hours of museums
- 4)To know the popular museums based on the number of paintings they hold.
- 5) To understand the various canvas size most artist use and their cost.
- 6) To know the top artist based on the sales price of their paintings
+ 1) To understand the popular painting styles used by artists.<br>
+ 2) Which artist has the most number of paintings placed in different museums all over the world.<br>
+ 3) Analyse the working hours of museums to know the popular museums based on the number of paintings they hold.<br>
+ 5) To understand the various canvas size most artist use and their cost.<br>
+ 6) To know the top artist based on the sales price of their paintings.<br>
 
 ## $ To achieve the above objective following questions have to be answered:
  1) Fetch all the paintings which are not displayed on any museums?
